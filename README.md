@@ -48,9 +48,8 @@ npm install
 npm start
 
 
-The app will run on:
-
-http://localhost:3000
+You can see the website by clicking on the given url
+https://swadeshi-e-commerce-git-main-amangarg1030s-projects.vercel.app/
 
 
 ## 📂 Project Structure
